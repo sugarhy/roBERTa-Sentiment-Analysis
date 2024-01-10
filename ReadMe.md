@@ -2,5 +2,5 @@ In this project, we will be carrying out sentiment analysis on food reviews left
 
 We will be applying 2 different models - NLTK's VADER and HuggingFace's roBERTa model and compare the results between the 2 to prove the high performance of Transformers.
 
-Dataset source: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/code
+Dataset source: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/code <br>
 Project Reference: Rob Mulla Python Sentiment Analysis Project
